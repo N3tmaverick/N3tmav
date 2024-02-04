@@ -2,4 +2,8 @@ Hallo
 
 Du da
 
+<<<<<<< HEAD
 Drüben
+=======
+bla bla
+>>>>>>> abc
